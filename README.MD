@@ -7,7 +7,7 @@ This bash script automates the process of downloading, extracting, and installin
 I wrote the script to correct the non working  set of instructions  by 
 https://www.brother.co.uk/
 
-There instructions were as follows 
+Their instructions were as follows 
 
 - `Step1`. 
     - Download the tool.(linux-brprinter-installer-*.*.*-*.gz)`
